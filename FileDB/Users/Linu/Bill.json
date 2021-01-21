@@ -1,0 +1,11 @@
+{
+	"product": [{
+			"productName": "Sony",
+			"price": 40000,
+			"specification": "Model No 10,44inch size"
+		}
+	],
+	"totalAmount": 40000,
+	"isDiscountApplied": true,
+	"amountWithDiscount": 39500
+}

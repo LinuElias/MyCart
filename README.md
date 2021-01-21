@@ -11,7 +11,7 @@ MyCart is a CLI (Command Line Interface) based E-commerce app written in Go Prog
 Clone the Project
 
 ```bash
-git clone url
+git clone https://github.com/LinuElias/MyCart.git
 ```
 
 

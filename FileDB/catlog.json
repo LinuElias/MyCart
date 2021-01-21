@@ -1,0 +1,92 @@
+[{
+		"categoryName": "Electronics",
+		"subCategory": [{
+				"subCategoryName": "Mobile",
+				"products": [{
+						"productName": "RealmeXT",
+						"price": 15000,
+						"specification": "Model No 7,Black color"
+					}, {
+						"productName": "Redmi9Pro",
+						"price": 10000,
+						"specification": "Model No 8,Red color"
+					}
+				]
+			}, {
+				"subCategoryName": "TV",
+				"products": [{
+						"productName": "LG",
+						"price": 30000,
+						"specification": "Model No 9,32inch size"
+					}, {
+						"productName": "Sony",
+						"price": 40000,
+						"specification": "Model No 10,44inch size"
+					}
+				]
+			}
+		]
+	}, {
+		"categoryName": "WomenFashion",
+		"subCategory": [{
+				"subCategoryName": "Dress",
+				"products": [{
+						"productName": "floralDress",
+						"price": 1000,
+						"specification": "Small Size"
+					}, {
+						"productName": "maxiDress",
+						"price": 2000,
+						"specification": "Large Size"
+					}
+				]
+			}, {
+				"subCategoryName": "Saree",
+				"products": [{
+						"productName": "CottonSaree",
+						"price": 3000
+					}, {
+						"productName": "SilkSaree",
+						"price": 4000
+					}
+				]
+			}
+		]
+	}, {
+		"categoryName": "MenFashion",
+		"subCategory": [{
+				"subCategoryName": "Shoes",
+				"products": [{
+						"productName": "FormalShoe",
+						"price": 3000
+					}, {
+						"productName": "CasualShoe",
+						"price": 500
+					}
+				]
+			}, {
+				"subCategoryName": "Clothing",
+				"products": [{
+						"productName": "Shirt",
+						"price": 3000
+					}, {
+						"productName": "Jeans",
+						"price": 1000
+					}
+				]
+			}
+		]
+	}, {
+		"categoryName": "HomeApplications",
+		"subCategory": [{
+				"subCategoryName": "furniture",
+				"products": [{
+						"productName": "bed",
+						"price": 40000,
+						"specification": "largeBed"
+					}
+				]
+			}
+		]
+	}
+]
