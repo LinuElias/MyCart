@@ -1,6 +1,6 @@
 # MyCart
 
-MyCart is a CLI (Command Line Interface) based E-commerce app written in Go Programming Language.
+MyCart is a CLI (Command Line Interface) based E-commerce app written in Go Programming Language and FileDB
 
 ## Requirements
 * Go
